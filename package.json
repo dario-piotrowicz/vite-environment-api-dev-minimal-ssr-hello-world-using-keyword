@@ -1,0 +1,12 @@
+{
+  "name": "vite-environment-api-dev-minimal-ssr-hello-world",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
