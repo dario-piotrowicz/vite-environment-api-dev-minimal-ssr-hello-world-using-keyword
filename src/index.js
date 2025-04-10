@@ -1,5 +1,6 @@
 const handler = async (_req, res) => {
-    res.end("Hello World!");
+  using myObject = { [Symbol.asyncDispose]: () => { console.log("Disposed"); } };
+  res.end("Hello World!");
 };
 
 export default handler;

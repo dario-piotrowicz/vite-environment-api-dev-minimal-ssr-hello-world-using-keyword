@@ -1,4 +1,6 @@
-# vite-environment-api-dev-minimal-ssr-hello-world
+# vite-environment-api-dev-minimal-ssr-hello-world-using-keyword
 
-Just a minimal "Hello World" SSR serving app implemented on top of the Vite Environment API,
-and only implemented for development use (just with `vite dev`, no `vite build`)
+Reproduction showing the using the keyword `using` in a vite server environment
+results in an `Unexpected identifier` error
+
+![screenshot of the error](./Screenshot%202025-04-10%20at%2023.12.15.png)
